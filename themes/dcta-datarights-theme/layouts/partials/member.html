@@ -2,9 +2,9 @@
   <a href="{{ .url | safeHTML }}"> 
     <div class="member-logo">
       {{ if .logo }}
-        <img src="{{ .logo | absURL }}"/>
+        <img src="{{ .logo | absURL }}" alt="{{ .organization }} logo image" title="{{ .organization }}"/>
       {{ else }}
-        <img src="{{ "images/members/blank.png" | absURL }}" />
+        <img src="{{ "images/members/blank.png" | absURL }}" alt="{{ .organization }} logo placeholder" title="{{ .organization }}"/>
       {{ end }}
     </div>
     <h3>{{ .organization }}</h3>
