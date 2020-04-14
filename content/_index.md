@@ -66,28 +66,6 @@ When developing a DCTA app, developers should identify one or more well-defined 
 
  [5]: https://www.google.com/url?q=https://www.apple.com/newsroom/2020/04/apple-and-google-partner-on-covid-19-contact-tracing-technology/&sa=D&ust=1586831353410000
 
-## Stakeholders
-
-  * Public health / Government
-  * Infectious disease / Epidemiologists / Scientists
-  * Users / Consumers
-
-## Drafters
-
-  * Harper Reed (harper@modest.com)
-  * Cari Spivack (cari@usdigitalresponse.org)
-  * Andrew Trask (andrew@openmined.org)
-  * Scott Leibrand, CoEpi.org ([scottleibrand@gmail.com][6])
-  * Dana Lewis, CoEpi.org (dana+CoEpi@OpenAPS.org)
-  * Tina White ([crwhite@stanford.edu][7])
-  * Martin Hacker ([mhaecker@mac.com][8])
-  * Sebastian Presiner ([kreativmonkey@calyrium.org][9])
-  * Clara Fischer (clara@voiceof.tech)
-
-   [6]: mailto:scottleibrand@gmail.com
-   [7]: mailto:crwhite@stanford.edu
-   [8]: mailto:mhaecker@mac.com
-   [9]: mailto:kreativmonkey@calyrium.org
 
 ## Other notable privacy principles:
 
