@@ -1,13 +1,7 @@
-<!-- start partial member.html -->
-<section class="drafters">
-  <header class="section-header">
-    <h2 class="title">Drafters</h2>
-  </header>
+
  
   <div class="drafters">
     {{ range sort $.Site.Data.drafters "name" }}
       {{ partial "draftee.html" .}}
     {{ end }}
   </div>
-</section>
-<!-- end partial member.html -->
