@@ -15,11 +15,27 @@
     
     <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}">
     <link rel="shortcut icon" href="{{ "images/favicon.ico" | absURL }}">
-    <link rel="apple-touch-icon" sizes="180x180" href="{{ "images/apple-touch-icon.png" | absURL }}">
+ 
+
+    <link rel="apple-touch-icon" sizes="57x57" href="{{ "images/apple-icon-57x57.png" | absURL }}">
+    <link rel="apple-touch-icon" sizes="60x60" href="{{ "images/apple-icon-60x60.png" | absURL }}">
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ "images/apple-icon-72x72.png" | absURL }}">
+    <link rel="apple-touch-icon" sizes="76x76" href="{{ "images/apple-icon-76x76.png" | absURL }}">
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ "images/apple-icon-114x114.png" | absURL }}">
+    <link rel="apple-touch-icon" sizes="120x120" href="{{ "images/apple-icon-120x120.png" | absURL }}">
+    <link rel="apple-touch-icon" sizes="144x144" href="{{ "images/apple-icon-144x144.png" | absURL }}">
+    <link rel="apple-touch-icon" sizes="152x152" href="{{ "images/apple-icon-152x152.png" | absURL }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ "images/apple-icon-180x180.png" | absURL }}">
+    <link rel="icon" type="image/png" sizes="192x192"  href="{{ "images/android-icon-192x192.png" | absURL }}">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ "images/favicon-32x32.png" | absURL }}">
+    <link rel="icon" type="image/png" sizes="96x96" href="{{ "images/favicon-96x96.png" | absURL }}">
     <link rel="icon" type="image/png" sizes="16x16" href="{{ "images/favicon-16x16.png" | absURL }}">
-    <link rel="manifest" href="/site.webmanifest">
-    <script src="https://kit.fontawesome.com/f8230c5983.js" crossorigin="anonymous"></script>
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="{{ "images/ms-icon-144x144.png" | absURL }}">
+    <meta name="theme-color" content="#ffffff">
+
+
     {{- partial "head/opengraph.html" . -}}
 
     <link href='https://fonts.googleapis.com/css?family=Playfair+Display:700' rel='stylesheet' type='text/css'>
