@@ -62,9 +62,9 @@ When developing a DCTA app, developers should identify one or more well-defined 
   13. Contact tracing apps should use an openly published protocol to ensure that their solution is verifiable and interoperable. For example, [the TCN Protocol][4], and [Apple/Google COVID-19 contact tracing technology][5]. 
 </div>
 
- [4]: https://www.google.com/url?q=https://github.com/TCNCoalition/TCN&sa=D&ust=1586831353409000
+ [4]: https://github.com/TCNCoalition/TCN
 
- [5]: https://www.google.com/url?q=https://www.apple.com/newsroom/2020/04/apple-and-google-partner-on-covid-19-contact-tracing-technology/&sa=D&ust=1586831353410000
+ [5]: https://www.apple.com/newsroom/2020/04/apple-and-google-partner-on-covid-19-contact-tracing-technology/
 
 
 ## Other notable privacy principles:
@@ -72,5 +72,5 @@ When developing a DCTA app, developers should identify one or more well-defined 
   * [https://www.ccc.de/en/updates/2020/contact-tracing-requirements][10]
   * [https://law.mit.edu/pub/covid19contacttracingprivacyprinciples][11]
 
-   [10]: https://www.google.com/url?q=https://www.ccc.de/en/updates/2020/contact-tracing-requirements&sa=D&ust=1586831353412000
-   [11]: https://www.google.com/url?q=https://law.mit.edu/pub/covid19contacttracingprivacyprinciples&sa=D&ust=1586831353413000
+   [10]: https://www.ccc.de/en/updates/2020/contact-tracing-requirements
+   [11]: https://law.mit.edu/pub/covid19contacttracingprivacyprinciples
