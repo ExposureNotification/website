@@ -1,9 +1,13 @@
 ---
-title: "Data Rights for Digital Contact Tracing and Alerting"
+title: "Overview"
 date: 2020-04-13T05:31:18Z
 draft: false
 
 menu: ["main", "footer"]
+
+menu: 
+  main:
+    name: Home
 
 ---
 
