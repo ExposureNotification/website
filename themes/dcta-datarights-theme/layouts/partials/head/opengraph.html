@@ -24,4 +24,5 @@
     "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }}"PhotoBlog" ]
 }
 </script>
-<link rel="me" href="https://twitter.com/{{ .Site.Params.twitter}}">
+
+<meta property="og:image" content="{{ "images/logo.png" | absURL }}">

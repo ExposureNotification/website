@@ -52,7 +52,9 @@ When developing a {{< dcta >}} app, developers should identify one or more well-
 
 ## Why are the rights necessary?
 
-Epidemiologists identify {{< dcta >}} as a tool that can help get people treated earlier and reopen society. For digital contact tracing to be effective, it must have high adoption. However, large scale centralized digital contact tracing can be used for unwanted surveillance. The solution to these problems is requiring that developers build apps on a foundation of privacy-preservation and interoperability. The Rights are necessary to achieve this end. 
+Epidemiologists identify {{< dcta >}} as a tool that can help get people treated earlier, and reopen society. For digital contact tracing to be effective, it must have high adoption. However, large scale centralized digital contact tracing can be used for unwanted surveillance. Location-tracking apps have exposed major concerns that these tech solutions will permanently erode the privacy of a large number of the world's population.
+
+It is now apparent that measures needed to control the damage from COVID-19 will be ongoing and long-term. It is crucially important that the tech solutions rapidly built during this period comply with data privacy regulations and do not set the public up for future exploitation. The solution to these problems is requiring that developers build apps on a foundation of privacy-preservation and interoperability. The Rights are necessary to achieve this end.
 
 ## What is contact tracing?
 
@@ -70,7 +72,7 @@ Open source communities, developers and private organizations seem to be leading
 
 ## What happens next? 
 
-Developers: When building apps to aid this pandemic, adopt the DCTA Rights to build the most effective app without causing harm.
+Developers: When building apps to aid this pandemic, adopt the {{< dcta >}} Data Rights to build the most effective app without causing harm.
 
 Use them to guide your user stories and UX. The Rights have been reviewed and agreed upon by several organizations, however, the Rights are a live document. They will likely evolve to address new approaches and standards. Developers are at the frontlines and will need to help contribute to make sure that the Rights remain the standard.
 
