@@ -19,9 +19,9 @@ Right now, ({{< dcta >}}) apps are being built around the world to help societie
 
 {{< dcta >}} appscan be effective without a consumer having to divulge any personal information to anyone. Data processed within {{< dcta >}} infrastructure may only reveal the following types of information to the following types of individuals:
 
-  * Plausibly exposed individuals that they may have been exposed
-  * Health officials, of high level trends in exposure (not individual level)
-  * Verifying to authorities that an individual is healthy or sick, with the explicit consent of the individual at each verification.
+  * Inform plausibly exposed individuals that they may have been exposed
+  * Inform health officials of high level trends in exposure (not individual level)
+  * Verifying to authorities that an individual is healthy or sick with the explicit consent of the individual at each verification.
 
 Private-sector contact tracing apps should be open source and/or available for audit from an independent third party.
 
