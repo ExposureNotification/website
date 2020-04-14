@@ -11,11 +11,11 @@ menu:
 
 ---
 
-Individual Data Rights for Digital Contact Tracing and Alerting (<acronym title="Digital Contact Tracing and Alerting">DCTA</acronym>) are best practices for how consumer DCTAs should respect and handle consumer data. The Rights were developed in collaboration with the privacy and security community, government agencies, technology community, and public health professionals, including epidemiologists. 
+Individual Data Rights for Digital Contact Tracing and Alerting ({{< dcta >}}) are best practices for how consumer DCTAs should respect and handle consumer data. The Rights were developed in collaboration with the privacy and security community, government agencies, technology community, and public health professionals, including epidemiologists. 
 
-## General <acronym title="Digital Contact Tracing and Alerting">DCTA</acronym> data use
+## General {{< dcta >}} data use
 
-<acronym title="Digital Contact Tracing and Alerting">DCTA</acronym> can be effective without a consumer having to divulge any personal information to anyone. Data processed within <acronym title="Digital Contact Tracing and Alerting">DCTA</acronym> infrastructure may only reveal the following types of information to the following types of individuals:
+{{< dcta >}} can be effective without a consumer having to divulge any personal information to anyone. Data processed within {{< dcta >}} infrastructure may only reveal the following types of information to the following types of individuals:
 
   * Plausibly exposed individuals that they may have been exposed
   * Health officials, of high level trends in exposure (not individual level)
@@ -23,14 +23,14 @@ Individual Data Rights for Digital Contact Tracing and Alerting (<acronym title=
 
 Private-sector contact tracing apps should be open source and/or available for audit from an independent third party.
 
-When developing a <acronym title="Digital Contact Tracing and Alerting">DCTA</acronym> app, developers should identify one or more well-defined problems that will be mitigated, solved, or improved.
+When developing a {{< dcta >}} app, developers should identify one or more well-defined problems that will be mitigated, solved, or improved.
 
 ## Individual data rights for contact tracing
 
 <div class="rights">
 
   1. Data collection should be limited to achieve a defined purpose and should only collect the minimum data necessary. 
-  2. All information disclosed by consumers through a <acronym title="Digital Contact Tracing and Alerting">DCTA</acronym> app should be completely opt-in, with clear informed consent both as to the nature of what they're disclosing, how it is used, the likely impacts of disclosure and use, and any choices the consumers may have. Any new use requires fresh consent. Consumers can withdraw their consent at any time.
+  2. All information disclosed by consumers through a {{< dcta >}} app should be completely opt-in, with clear informed consent both as to the nature of what they're disclosing, how it is used, the likely impacts of disclosure and use, and any choices the consumers may have. Any new use requires fresh consent. Consumers can withdraw their consent at any time.
   3. When consumers choose to altruistically share their health information, that information should remain completely anonymous: no information should be required other than that which is essential, based on epidemiological standards, for alerting others to potential exposure. 
   4. Information such as location history, symptom reports, demographic information, or similar shared with public health officials or researchers must never be linked back to or used to re-identify individuals, even by entities legally allowed to perform such linkage. 
   5. Data may be aggregated so that it may not allow for the identification of individuals. Aggregate data may be maintained for public research purposes. Precautions should be taken to ensure that shared aggregate data may not be re-identified downstream.  
@@ -50,21 +50,21 @@ When developing a <acronym title="Digital Contact Tracing and Alerting">DCTA</ac
 
 ## Why are the rights necessary?
 
-Epidemiologists identify <acronym title="Digital Contact Tracing and Alerting">DCTA</acronym> as a tool that can help get people treated earlier, and reopen society. For digital contact tracing to be effective, it must have high adoption. However, large scale centralized digital contact tracing can be used for unwanted surveillance. The solution to these problems is requiring that developers build apps on a foundation of privacy-preservation and interoperability. The Rights are necessary to achieve this end. 
+Epidemiologists identify {{< dcta >}} as a tool that can help get people treated earlier, and reopen society. For digital contact tracing to be effective, it must have high adoption. However, large scale centralized digital contact tracing can be used for unwanted surveillance. The solution to these problems is requiring that developers build apps on a foundation of privacy-preservation and interoperability. The Rights are necessary to achieve this end. 
 
 ## What is contact tracing?
 
 Contact tracing is an epidemiological process to help model the spread of an epidemic. It has been used effectively to eradicate smallpox and in the fight against Ebola. It is currently being used as one of the better tools in the fight against COVID-19. 
 
-<acronym title="Digital Contact Tracing and Alerting">DCTA</acronym> takes parts of the epidemiological process and applies it to a consumer facing app. Instead of using this process for modeling and other epidemiological uses, the data and processes alert a consumer of a possible infection as early as possible so they can seek healthcare.
+{{< dcta >}} takes parts of the epidemiological process and applies it to a consumer facing app. Instead of using this process for modeling and other epidemiological uses, the data and processes alert a consumer of a possible infection as early as possible so they can seek healthcare.
 
 ## What is the objective?
 
-The Rights should be part of the standard toolkit for developing a <acronym title="Digital Contact Tracing and Alerting">DCTA</acronym> app. 
+The Rights should be part of the standard toolkit for developing a {{< dcta >}} app. 
 
 ## Who is the Audience?
 
-Open source communities, developers and private organizations seem to be leading the charge on creating <acronym title="Digital Contact Tracing and Alerting">DCTA</acronym> apps. 
+Open source communities, developers and private organizations seem to be leading the charge on creating {{< dcta >}} apps. 
 
 ## What happens next? 
 
@@ -72,14 +72,6 @@ Developers: adopt the Rights and go build amazing apps that can help get us out 
 
 Use them to guide your user stories and UX. The Rights have been reviewed and agreed upon by many organizations. However, the Rights are a live document. They will likely evolve to address new approaches and standards. Developers are at the frontlines and will need to help contribute to make sure that the Rights remain the standard. 
 
+## Signatories of the data rights
 
-
-
-
-## Other notable privacy principles:
-
-  * [https://www.ccc.de/en/updates/2020/contact-tracing-requirements][10]
-  * [https://law.mit.edu/pub/covid19contacttracingprivacyprinciples][11]
-
-   [10]: https://www.ccc.de/en/updates/2020/contact-tracing-requirements
-   [11]: https://law.mit.edu/pub/covid19contacttracingprivacyprinciples
+{{< members  >}}
