@@ -1,0 +1,18 @@
+---
+##
+# LOGO
+# the logo should be a file inside static/images/members ore a link to the png/jpg
+# the dimension of the logo should be 250x250
+##
+- organization: TCN Coalition
+  country: USA
+  logo: images/members/tcn-coalition-logo.png
+  url: https://tcn-coalition.org/
+- organization: U.S. Digital Response
+  country: USA
+  logo: images/members/USDR-logo.png
+  url: https://usdigitalresponse.org/
+- organization: OpenMined
+  country: USA
+  logo: images/members/openmined-logo.svg
+  url: https://openmined.org/

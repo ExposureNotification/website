@@ -1,0 +1,4 @@
+<div class="draftee">
+  {{ .name }} 
+  {{ with .email }}<span class="email">(<a href="mailto:{{ . | safeHTML }}">{{ . }}</a>)</span>{{ end }}
+</div>
