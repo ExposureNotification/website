@@ -70,9 +70,9 @@ Open source communities, developers and private organizations seem to be leading
 
 ## What happens next? 
 
-Developers: adopt the Rights and go build amazing apps that can help get us out of this pandemic! 
+Developers: When building apps to aid this pandemic, adopt the DCTA Rights to build the most effective app without causing harm.
 
-Use them to guide your user stories and UX. The Rights have been reviewed and agreed upon by many organizations. However, the Rights are a live document. They will likely evolve to address new approaches and standards. Developers are at the frontlines and will need to help contribute to make sure that the Rights remain the standard. 
+Use them to guide your user stories and UX. The Rights have been reviewed and agreed upon by several organizations, however, the Rights are a live document. They will likely evolve to address new approaches and standards. Developers are at the frontlines and will need to help contribute to make sure that the Rights remain the standard.
 
 ## Member organizations
 
