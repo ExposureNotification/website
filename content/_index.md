@@ -52,7 +52,7 @@ When developing a {{< dcta >}} app, developers should identify one or more well-
 
 ## Why are the rights necessary?
 
-Epidemiologists identify {{< dcta >}} as a tool that can help get people treated earlier, and reopen society. For digital contact tracing to be effective, it must have high adoption. However, large scale centralized digital contact tracing can be used for unwanted surveillance. The solution to these problems is requiring that developers build apps on a foundation of privacy-preservation and interoperability. The Rights are necessary to achieve this end. 
+Epidemiologists identify {{< dcta >}} as a tool that can help get people treated earlier and reopen society. For digital contact tracing to be effective, it must have high adoption. However, large scale centralized digital contact tracing can be used for unwanted surveillance. The solution to these problems is requiring that developers build apps on a foundation of privacy-preservation and interoperability. The Rights are necessary to achieve this end. 
 
 ## What is contact tracing?
 
