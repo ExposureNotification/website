@@ -12,7 +12,7 @@ We kicked off a frantic editing process and were very lucky to have the followin
 {{< drafters  >}}
 
 ---
-## Signatories of the Individual Data Rights for Digital Contact Tracing and Alerting
+## Signatories of the Individual Data Rights for {< dcta expand="True">}}
 
 We have also had the following organizations join us in upholding this data rights framework:
 
