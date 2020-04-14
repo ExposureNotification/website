@@ -25,12 +25,12 @@ body {
 }
 
 a {
-  color: #009ec1;
+  color: #006C85;
   text-decoration: none;
   word-break: break-word;
 
   &:hover {
-    border-bottom: 2px solid #009ec1;
+    border-bottom: 2px solid #006C85;
   }
 }
 
@@ -39,7 +39,7 @@ html, button, input, select, textarea {
 }
 
 ::-moz-selection, ::selection {
-  background: #009ec1;
+  background: #006C85;
   text-shadow: none;
   color: #fff;
 }
