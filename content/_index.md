@@ -45,6 +45,8 @@ When developing a DCTA app, developers should identify one or more well-defined 
 
 ## INDIVIDUAL DATA RIGHTS FOR DIGITAL CONTACT TRACING
 
+<div class="rights">
+
   1. Data collection should be limited to achieve a defined purpose and should only collect the minimum data necessary. 
   2. All information disclosed by consumers through a DCTA app should be completely opt-in, with clear informed consent both as to the nature of what they're disclosing, how it is used, the likely impacts of disclosure and use, and any choices the consumers may have. Any new use requires fresh consent. Consumers can withdraw their consent at any time.
   3. When consumers choose to altruistically share their health information, that information should remain completely anonymous: no information should be required other than that which is essential, based on epidemiological standards, for alerting others to potential exposure. 
@@ -58,9 +60,11 @@ When developing a DCTA app, developers should identify one or more well-defined 
   11. Contact tracing apps shall be developed in collaboration with the privacy and security community, human rights and civil liberties organizations, government agencies, technology community, and public health professionals, including epidemiologists.
   12. All contact tracing apps must be in compliance with local data protection laws and regulations.
   13. Contact tracing apps should use an openly published protocol to ensure that their solution is verifiable and interoperable. For example, [the TCN Protocol][4], and [Apple/Google COVID-19 contact tracing technology][5]. 
+</div>
 
-   [4]: https://www.google.com/url?q=https://github.com/TCNCoalition/TCN&sa=D&ust=1586831353409000
-   [5]: https://www.google.com/url?q=https://www.apple.com/newsroom/2020/04/apple-and-google-partner-on-covid-19-contact-tracing-technology/&sa=D&ust=1586831353410000
+ [4]: https://www.google.com/url?q=https://github.com/TCNCoalition/TCN&sa=D&ust=1586831353409000
+
+ [5]: https://www.google.com/url?q=https://www.apple.com/newsroom/2020/04/apple-and-google-partner-on-covid-19-contact-tracing-technology/&sa=D&ust=1586831353410000
 
 ## Stakeholders
 
@@ -92,8 +96,3 @@ When developing a DCTA app, developers should identify one or more well-defined 
 
    [10]: https://www.google.com/url?q=https://www.ccc.de/en/updates/2020/contact-tracing-requirements&sa=D&ust=1586831353412000
    [11]: https://www.google.com/url?q=https://law.mit.edu/pub/covid19contacttracingprivacyprinciples&sa=D&ust=1586831353413000
-
-## Signatories: 
-
-  * TCN Coalition
-  * Openmined

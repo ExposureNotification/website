@@ -23,7 +23,9 @@
     <script src="https://kit.fontawesome.com/f8230c5983.js" crossorigin="anonymous"></script>
     {{- partial "head/opengraph.html" . -}}
 
-    {{ $scss := resources.Get "scss/app.sass" }}
+    <link href='https://fonts.googleapis.com/css?family=Playfair+Display:700' rel='stylesheet' type='text/css'>
+
+    {{ $scss := resources.Get "scss/app.scss" }}
     {{ $style := $scss | resources.ToCSS }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
   

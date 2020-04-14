@@ -27,3 +27,7 @@ disableKinds:
   - section
   - page
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
