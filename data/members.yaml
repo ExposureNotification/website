@@ -5,7 +5,7 @@
 # the dimension of the logo should be 250x250
 ##
 - organization: TCN Coalition
-  country: USA
+  country: Global
   logo: images/members/tcn-coalition-logo.png
   url: https://tcn-coalition.org/
 - organization: U.S. Digital Response
@@ -13,6 +13,6 @@
   logo: images/members/USDR-logo.png
   url: https://usdigitalresponse.org/
 - organization: OpenMined
-  country: USA
+  country: UK
   logo: images/members/openmined-logo.svg
   url: https://openmined.org/
