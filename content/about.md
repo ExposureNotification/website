@@ -31,3 +31,9 @@ It is worth noting that we stand on the shoulders of those who came before hand.
 
    [10]: https://www.ccc.de/en/updates/2020/contact-tracing-requirements
    [11]: https://law.mit.edu/pub/covid19contacttracingprivacyprinciples
+
+## Contact us
+
+Please reach out if you have any questions: help@dcta-datarights.com
+
+We are always looking for new members, and feedback. 
