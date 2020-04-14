@@ -24,7 +24,7 @@ We have also had the following organizations join us in upholding this data righ
 
 ## Other notable privacy principles:
 
-It is worth noting that we stand on the shoulders of those who came before hand. We found that a lot of folks were defining similar data frameworks and we were happy to see that we share a lot of ideas. We found the following very helpful and influencing. 
+It is worth noting that we stand on the shoulders of those who came beforehand. We found that a lot of folks were defining similar data frameworks and we were happy to see that we share a lot of ideas. We found the following very helpful and influential: 
 
   * [https://www.ccc.de/en/updates/2020/contact-tracing-requirements][10]
   * [https://law.mit.edu/pub/covid19contacttracingprivacyprinciples][11]
@@ -36,4 +36,4 @@ It is worth noting that we stand on the shoulders of those who came before hand.
 
 Please reach out if you have any questions: questions@dcta-datarights.com
 
-We are always looking for new members, and feedback. 
+We are always looking for new members and feedback. 
