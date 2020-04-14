@@ -25,7 +25,7 @@ Private-sector contact tracing apps should be open source and/or available for a
 
 When developing a {{< dcta >}} app, developers should identify one or more well-defined problems that will be mitigated, solved, or improved.
 
-## Individual data rights for contact tracing
+## Individual Data Rights for {{< dcta expand="True">}}
 
 <div class="rights">
 

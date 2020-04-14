@@ -34,6 +34,6 @@ It is worth noting that we stand on the shoulders of those who came before hand.
 
 ## Contact us
 
-Please reach out if you have any questions: help@dcta-datarights.com
+Please reach out if you have any questions: questions@dcta-datarights.com
 
 We are always looking for new members, and feedback. 
