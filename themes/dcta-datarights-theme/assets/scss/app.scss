@@ -236,15 +236,25 @@ ul {
 
 .page-header {
 	background-color: #e7f2f5;
-	padding: 30px 0;
+	padding: 15px 0 0;
   	.container {
   		margin-top: 0;
   	}
   	h1 {
   		font-weight: 700;
   		padding: 0 60px;
+  		margin-top: 0;
+  		font-size: 1.9em;
   		color: #162e51;
   		text-align: center;
+  		a {
+  			color: #333;
+  			&:hover {
+  				border-bottom: 0;
+  				text-decoration: none;
+  				color: #000;
+  			}
+  		}
   	}
 }
 
@@ -279,35 +289,42 @@ ul {
   }
 }
 
-.header {
+header,
+footer {
   .site-description {
     display: flex;
     justify-content: space-between;
   }
 
   nav {
+  	background-color: #fff;
+  	text-align: center;
+  	font-size: 1.2em;
     border-top: 1px solid #eee;
-    padding-top: 15px;
+    padding-top: 25px;
 
     ul {
       margin: 0;
       padding: 0;
-    }
+      display: flex;
+      flex-direction: row-reverse;
+      justify-content: center;
 
-    li {
-      margin: 0;
-      padding: 0;
-      display: inline-block;
-      list-style: none;
-      margin: 0 30px 0 0;
-    }
+	    li {
+	      margin: 0;
+	      padding: 0;
+	      display: inline-block;
+	      list-style: none;
+	      margin: 0 20px;
+	    }
 
-    &.social a {
-      color: #333;
+	    &.social a {
+	      color: #333;
 
-      &:hover {
-        color: #009ec1;
-      }
+	      &:hover {
+	        color: #009ec1;
+	      }
+	    }
     }
   }
 
@@ -469,29 +486,35 @@ ul {
   }
 }
 
+
+
+
 div.members {
   margin: 30px auto;
-  padding: 0 20px;
+  padding: 0;
   width: 100%;
-  display: grid;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 
-  /* Define Auto Row size */
-  grid-auto-rows: 1fr;
-
-  /*Define our columns */
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  grid-gap: 1em;
 }
 
+
+
+
+
 .member {
+  margin: 4px;
 	background-color: #f5f5f5;
 	border-radius: 10px;
-	padding: 20px;
+	padding: 10px;
+	width: 212px;
+	text-align: center;
 	.member-logo {
 		display: grid;
 		grid-template-columns: 1fr;
 		grid-template-rows: auto auto auto;
-		min-height: 287px;
+		min-height: 231px;
 		img {
 			grid-column: 1;
 			grid-row: 1 / -1;
@@ -500,6 +523,8 @@ div.members {
 	}
 	h3 {
 		margin-bottom: 5px;
+    	margin-top: 5px;
+    	font-size: 1.1em;
 	}
 	a:hover {
 		h3 {
@@ -508,7 +533,6 @@ div.members {
 		}
   	}
 }
-
 
 .rights ol {
 	padding: 60px 80px 60px 100px;

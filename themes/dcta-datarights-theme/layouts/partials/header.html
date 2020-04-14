@@ -1,9 +1,8 @@
 <header class="page-header">
 	<div class="container wrapper">
 		<h1 class="title logo">
-			<span class="alt-logo">{{.Site.Title}}</span>
+			<a href="/"><span class="alt-logo">{{.Site.Title}}</span></a>
 		</h1>
 	</div>
+	{{ partial "menu_main.html" . }}
 </header>
-
-{{ partial "menu_main.html" . }}
