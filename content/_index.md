@@ -11,11 +11,13 @@ menu:
 
 ---
 
-Individual Data Rights for Digital Contact Tracing and Alerting ({{< dcta >}}) are best practices for how consumer DCTAs should respect and handle consumer data. The Rights were developed in collaboration with the privacy and security community, government agencies, technology community, and public health professionals, including epidemiologists. 
+Individual Data Rights for Digital Contact Tracing and Alerting ({{< dcta >}}) are best practices for how consumer ({{< dcta >}})s should respect and handle consumer data. The Rights were developed in collaboration with the privacy and security community, government agencies, technology community, and public health professionals, including epidemiologists. 
+
+Right now, ({{< dcta >}}) apps are being built around the world to help societies mitigate both the economic and pandemic threats they face. 
 
 ## General {{< dcta >}} data use
 
-{{< dcta >}} can be effective without a consumer having to divulge any personal information to anyone. Data processed within {{< dcta >}} infrastructure may only reveal the following types of information to the following types of individuals:
+{{< dcta >}} appscan be effective without a consumer having to divulge any personal information to anyone. Data processed within {{< dcta >}} infrastructure may only reveal the following types of information to the following types of individuals:
 
   * Plausibly exposed individuals that they may have been exposed
   * Health officials, of high level trends in exposure (not individual level)
