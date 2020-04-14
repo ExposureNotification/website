@@ -10,5 +10,16 @@
         <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 13 Apr 2020 05:31:18 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description><img  src="https://images-na.ssl-images-amazon.com/images/P/.LZZZZZZZ.jpg" />
+
+    About</description>
+    </item>
+    
   </channel>
 </rss>

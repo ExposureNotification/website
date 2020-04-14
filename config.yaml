@@ -19,13 +19,11 @@ params:
   email: questions@dcta-datarights.org
   
 disableKinds:
-  - section
-  - section
   - taxonomy
   - taxonomyTerm
   - rss
   - section
-  - page
+
 
 markup:
   goldmark:
