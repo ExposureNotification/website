@@ -9,31 +9,31 @@ menu: ["main", "footer"]
 
 Individual Data Rights for Digital Contact Tracing and Alerting (DCTA) are best practices for how consumer DCTAs should respect and handle consumer data. The Rights were developed in collaboration with the privacy and security community, government agencies, technology community, and public health professionals, including epidemiologists. 
 
-## WHY ARE THE RIGHTS NECESSARY?
+## Why are the rights necessary?
 
 Epidemiologists identify DCTA as a tool that can help get people treated earlier, and reopen society. For digital contact tracing to be effective, it must have high adoption. However, large scale centralized digital contact tracing can be used for unwanted surveillance. The solution to these problems is requiring that developers build apps on a foundation of privacy-preservation and interoperability. The Rights are necessary to achieve this end. 
 
-## WHAT IS THE OBJECTIVE?
+## What is the objective?
 
 The Rights should be part of the standard toolkit for developing a DCTA app. 
 
-## WHO IS THE AUDIENCE?
+## Who is the Audience?
 
 Open source communities, developers and private organizations seem to be leading the charge on creating DCTA apps. 
 
-## WHAT HAPPENS NEXT? 
+## What happens next? 
 
 Developers: adopt the Rights and go build amazing apps that can help get us out of this pandemic! 
 
 Use them to guide your user stories and UX. The Rights have been reviewed and agreed upon by many organizations. However, the Rights are a live document. They will likely evolve to address new approaches and standards. Developers are at the frontlines and will need to help contribute to make sure that the Rights remain the standard. 
 
-## WHAT IS CONTACT TRACING?
+## What is contact tracing?
 
 Contact tracing is an epidemiological process to help model the spread of an epidemic. It has been used effectively to eradicate smallpox and in the fight against Ebola. It is currently being used as one of the better tools in the fight against COVID-19. 
 
 DCTA takes parts of the epidemiological process and applies it to a consumer facing app. Instead of using this process for modeling and other epidemiological uses, the data and processes alert a consumer of a possible infection as early as possible so they can seek healthcare.
 
-## GENERAL DCTA DATA USE
+## General DCTA data use
 
 DCTA can be effective without a consumer having to divulge any personal information to anyone. Data processed within DCTA infrastructure may only reveal the following types of information to the following types of individuals:
 
@@ -45,7 +45,7 @@ Private-sector contact tracing apps should be open source and/or available for a
 
 When developing a DCTA app, developers should identify one or more well-defined problems that will be mitigated, solved, or improved.
 
-## INDIVIDUAL DATA RIGHTS FOR DIGITAL CONTACT TRACING
+## Individual data rights for contact tracing
 
 <div class="rights">
 
