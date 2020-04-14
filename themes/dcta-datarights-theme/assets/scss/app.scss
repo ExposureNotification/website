@@ -316,6 +316,13 @@ footer {
 	      display: inline-block;
 	      list-style: none;
 	      margin: 0 20px;
+	      white-space: nowrap;
+	      &:first-of-type {
+	    	margin-right: 0;
+		    }
+		    &:last-of-type {
+		    	margin-left: 0;
+		    }
 	    }
 
 	    &.social a {
@@ -325,6 +332,7 @@ footer {
 	        color: #009ec1;
 	      }
 	    }
+	    
     }
   }
 
@@ -596,6 +604,9 @@ div.members {
       margin: 0 10px 0 0;
       font-size: 14px;
     }
+  }
+  .rights ol {
+    padding: 30px 25px 60px 70px;
   }
 
   table {
