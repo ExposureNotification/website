@@ -9,10 +9,9 @@
     {{ with .Site.Params.topic }}<meta name="page-topic" content="{{ . }}"/>{{ end }}
     <meta name="copyright" content="{{ .Site.Title }}"/>
     <meta name="audience" content="all"/>
-    <meta http-equiv="content-language" content="en"/>
     <meta name="robots" content="index, follow"/>
 
-    <title>{{ .Site.Title }} &middot; {{ .Site.Params.description }}</title>
+    <title>{{ .Site.Title }} &middot; {{ .Title }}</title>
     
     <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}">
     <link rel="shortcut icon" href="{{ "images/favicon.ico" | absURL }}">
