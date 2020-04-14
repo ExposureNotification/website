@@ -3,6 +3,8 @@ title: "Data Rights for Digital Contact Tracing and Alerting"
 date: 2020-04-13T05:31:18Z
 draft: false
 
+menu: ["main", "footer"]
+
 ---
 
 Individual Data Rights for Digital Contact Tracing and Alerting (DCTA) are best practices for how consumer DCTAs should respect and handle consumer data. The Rights were developed in collaboration with the privacy and security community, government agencies, technology community, and public health professionals, including epidemiologists. 
