@@ -14,14 +14,14 @@ Feel free to do a pull request and fix typos, etc
 
 ### Adding your organization as a signer/member
 
-Please edit the [members.yaml](blob/master/data/members.yaml) file. 
+Please edit the [members.yaml](https://github.com/harperreed/dcta-datarights.com/blob/master/data/members.yaml) file. 
 
 Add your logo (preferrably SVG) to the `static/images/members/` dir.
 
 
 ### Editing the data rights and fixing typos
 
-You can edit the [_index.md](blob/master/content/_index.md) file and that will edit the main content of the site. 
+You can edit the [_index.md](https://github.com/harperreed/dcta-datarights.com/blob/master/content/_index.md) file and that will edit the main content of the site. 
 
 ## Questions / Contact
 
