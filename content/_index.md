@@ -38,7 +38,7 @@ When developing a {{< dcta >}} app, developers should identify one or more well-
   7. Application developers should have a very clear and reasonable data retention policy based on epidemiological standards, and must not retain any data for longer than required to achieve the app's objective.
   8. Aggregate data should be processed with privacy-protecting techniques such as differential privacy. The methodologies and techniques should be available for public review. 
   9. Data should be secured on the consumer's device according to industry best practices.
-  10. Consumers have ownership over the data collected and stored on their mobile device. 
+  10. Consumers have ownership over the data collected and stored on their mobile devices. 
   11. Data collected-by or derived-from {{< dcta >}} apps should not be monetized, shared, or used for any other non-public-health purpose. This includes third party analytics, ad tracking, and other common third party data collectors. 
   12. {{< dcta >}} apps shall be developed in collaboration with the privacy and security community, human rights and civil liberties organizations, government agencies, technology community, and public health professionals, including epidemiologists.
   13. All {{< dcta >}} apps must be in compliance with local data protection laws and regulations.
