@@ -24,3 +24,8 @@
   logo: images/members/coepi-logo.svg
   url: https://www.coepi.org/
   type: app
+- organization: CovidWatch
+  country: USA
+  logo: images/members/covidwatch-logo.svg
+  url: https://www.covid-watch.org/
+  type: app
