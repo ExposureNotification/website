@@ -1,8 +1,9 @@
 ---
 ##
 # LOGO
-# the logo should be a file inside static/images/members ore a link to the png/jpg
-# the dimension of the logo should be 250x250
+# the logo should be a file inside static/images/members ore a link to the svg
+# If the logo is not an SVG, then the dimension of the logo should be ~250x250
+# Type is the type of orgization you are
 ##
 - organization: TCN Coalition
   country: Global
