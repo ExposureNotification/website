@@ -11,3 +11,18 @@ It is now apparent that measures needed to control the damage from COVID-19 will
 ## Contributing 
 
 Feel free to do a pull request and fix typos, etc
+
+### Adding your organization as a signer/member
+
+Please edit the [members.yaml](/harperreed/dcta-datarights.com/blob/master/data/members.yaml) file. 
+
+Add your logo (preferrably SVG) to the `static/images/members/` dir.
+
+
+### Editing the data rights and fixing typos
+
+You can edit the [_index.md](/harperreed/dcta-datarights.com/blob/master/content/_index.md) file and that will edit the main content of the site. 
+
+## Questions / Contact
+
+you can email [questions@dcta-datarights.com](mailto:questions@dcta-datarights.com) to reach the team. 
