@@ -11,11 +11,11 @@ menu:
 
 ---
 
-Right now, digital contact tracing apps are being built around the world to help societies mitigate both the economic and pandemic threats they face. Individual Data Rights for Digital Contact Tracing and Alerting ({{< dcta >}}) are best practices for how consumer {{< dcta >}}s should respect and handle consumer data. The Rights were developed in collaboration with the privacy and security community, government agencies, technology community, and public health professionals, including epidemiologists. 
+Right now, digital contact tracing apps are being built around the world to help societies mitigate both the economic and pandemic threats they face. Individual Data Rights for Digital Contact Tracing and Alerting ({{< dcta >}}) are best practices for how consumer {{< dcta >}} systems should respect and handle consumer data. The Rights were developed in collaboration with the privacy and security community, government agencies, technology community, and public health professionals, including epidemiologists. 
 
 ## General {{< dcta >}} data use
 
-{{< dcta >}} appscan be effective without a consumer having to divulge any personal information to anyone. Data processed within {{< dcta >}} infrastructure may only reveal the following types of information to the following types of individuals:
+{{< dcta >}} apps can be effective without a consumer having to divulge any personal information to anyone. Data processed within {{< dcta >}} infrastructure may only reveal the following types of information to the following types of individuals:
 
   * Inform plausibly exposed individuals that they may have been exposed
   * Inform health officials of high level trends in exposure (not individual level)
@@ -52,7 +52,7 @@ When developing a {{< dcta >}} app, developers should identify one or more well-
 
 ## Why are the rights necessary?
 
-Epidemiologists identify {{< dcta >}} as a tool that can help get people treated earlier, and reopen society. For digital contact tracing to be effective, it must have high adoption. However, large scale centralized digital contact tracing can be used for unwanted surveillance. Location-tracking apps have exposed major concerns that these tech solutions will permanently erode the privacy of a large number of the world's population.
+Epidemiologists identify {{< dcta >}} as a tool that can help get people treated earlier, and reopen society. For digital contact tracing to be effective, it must have high adoption. However, large scale centralized digital contact tracing could be used for unwanted surveillance. Location-tracking apps have exposed major concerns that these tech solutions will permanently erode the privacy of a large number of the world's population.
 
 It is now apparent that measures needed to control the damage from COVID-19 will be ongoing and long-term. It is crucially important that the tech solutions rapidly built during this period comply with data privacy regulations and do not set the public up for future exploitation. The solution to these problems is requiring that developers build apps on a foundation of privacy-preservation and interoperability. The Rights are necessary to achieve this end.
 
@@ -60,7 +60,7 @@ It is now apparent that measures needed to control the damage from COVID-19 will
 
 Contact tracing is an epidemiological process to help model the spread of an epidemic. It has been used effectively to eradicate smallpox and in the fight against Ebola. It is currently being used as one of the better tools in the fight against COVID-19. 
 
-{{< dcta >}} takes parts of the epidemiological process and applies it to a consumer facing app. Instead of using this process for modeling and other epidemiological uses, the data and processes alert a consumer of a possible infection as early as possible so they can seek healthcare.
+{{< dcta >}} takes parts of the epidemiological process and applies it to a consumer facing app. Instead of using this process for modeling and other epidemiological uses, the data and processes alert a consumer of a possible infection as early as possible so they can seek advice from health authorities on next steps.
 
 ## What is the objective?
 
