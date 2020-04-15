@@ -23,6 +23,13 @@ Add your logo (preferrably SVG) to the `static/images/members/` dir.
 
 You can edit the [_index.md](https://github.com/harperreed/dcta-datarights.com/blob/master/content/_index.md) file and that will edit the main content of the site. 
 
+## License
+
+The site and code is licensed under the MIT License
+
+The content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+
+
 ## Questions / Contact
 
 you can email [questions@dcta-datarights.com](mailto:questions@dcta-datarights.com) to reach the team. 
