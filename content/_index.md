@@ -32,7 +32,7 @@ When developing a {{< dcta >}} app, developers should identify one or more well-
   1. Data collection should be limited to achieve a defined purpose and should only collect the minimum data necessary. 
   2. All information disclosed by consumers through a {{< dcta >}} app should be completely opt-in, with clear informed consent both as to the nature of what they're disclosing, how it is used, the likely impacts of disclosure and use, and any choices the consumers may have. Any new use requires fresh consent. Consumers can withdraw their consent at any time.
   3. When consumers choose to altruistically share their health information, that information should remain completely anonymous: no information should be required other than that which is essential, based on epidemiological standards, for alerting others to potential exposure. 
-  4. {{< dcta >}}s must be fully accessible and based on the latest [W3C/WAI standards](https://www.w3.org/WAI/standards-guidelines/mobile/).
+  4. {{< dcta >}} apps must be fully accessible and based on the latest [W3C/WAI standards](https://www.w3.org/WAI/standards-guidelines/mobile/).
   5. Information such as location history, symptom reports, demographic information, or similar shared with public health officials or researchers must never be linked back to or used to re-identify individuals, even by entities legally allowed to perform such linkage. 
   6. Data may be aggregated so that it may not allow for the identification of individuals. Aggregate data may be maintained for public research purposes. Precautions should be taken to ensure that shared aggregate data may not be re-identified downstream.  
   7. Application developers should have a very clear and reasonable data retention policy based on epidemiological standards, and must not retain any data for longer than required to achieve the app's objective.
@@ -42,7 +42,7 @@ When developing a {{< dcta >}} app, developers should identify one or more well-
   11. Data collected-by or derived-from {{< dcta >}} apps should not be monetized, shared, or used for any other non-public-health purpose. This includes third party analytics, ad tracking, and other common third party data collectors. 
   12. {{< dcta >}} apps shall be developed in collaboration with the privacy and security community, human rights and civil liberties organizations, government agencies, technology community, and public health professionals, including epidemiologists.
   13. All {{< dcta >}} apps must be in compliance with local data protection laws and regulations.
-  14. {{< dcta >}}s must not discriminate and developers should perform due diligence to understand the impacts of unintended consequences. 
+  14. {{< dcta >}} apps must not discriminate and developers should perform due diligence to understand the impacts of unintended consequences. 
   15. {{< dcta >}} apps should use an openly published protocol to ensure that their solution is verifiable and interoperable. For example, [the TCN Protocol][4], and [Apple/Google COVID-19 contact tracing technology][5]. 
 
 </div>
