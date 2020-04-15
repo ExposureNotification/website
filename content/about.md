@@ -16,7 +16,7 @@ If you want to  see the history and the progress feel free to view our [google d
 ---
 ## Signatories of the Individual Data Rights for {{< dcta expand="True">}}
 
-We have also had the following organizations join us in upholding this data rights framework:
+The following organizations have joined us in upholding this data rights framework:
 
 
 {{< members  >}}
