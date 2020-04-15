@@ -11,9 +11,9 @@ menu:
 
 ---
 
-Right now, digital contact tracing apps are being built around the world to help societies mitigate both the economic and pandemic threats they face. Individual Data Rights for Digital Contact Tracing and Alerting ({{< dcta >}}) are best practices for how consumer {{< dcta >}} systems should respect and handle consumer data. The Rights were developed in collaboration with the privacy and security community, government agencies, technology community, and public health professionals, including epidemiologists. 
+Right now, digital contact tracing apps are being built around the world to help societies mitigate both the economic and pandemic threats they face. Individual Data Rights for Digital Contact Tracing and Alerting ({{< dcta >}}) are best practices for how consumer {{< dcta >}} systems should respect and handle consumer data. The Rights were developed in collaboration with the privacy and security community, human rights and civil liberties organizations, government agencies, technology community, and public health professionals, including epidemiologists. 
 
-## General {{< dcta >}} data use
+## General {{< dcta >}} Data Use
 
 {{< dcta >}} apps can be effective without a consumer having to divulge any personal information to anyone. Data processed within {{< dcta >}} infrastructure may only reveal the following types of information to the following types of individuals:
 
@@ -38,12 +38,12 @@ When developing a {{< dcta >}} app, developers should identify one or more well-
   7. Application developers should have a very clear and reasonable data retention policy based on epidemiological standards, and must not retain any data for longer than required to achieve the app's objective.
   8. Aggregate data should be processed with privacy-protecting techniques such as differential privacy. The methodologies and techniques should be available for public review. 
   9. Data should be secured on the consumer's device according to industry best practices.
-  10. An individual has ownership over the data collected and stored on their mobile device. 
-  11. Data collected-by or derived-from contact tracing apps should not be monetized, shared, or used for any other non-public-health purpose. This includes third party analytics, ad tracking, and other common third party data collectors. 
-  12. Contact tracing apps shall be developed in collaboration with the privacy and security community, human rights and civil liberties organizations, government agencies, technology community, and public health professionals, including epidemiologists.
-  13. All contact tracing apps must be in compliance with local data protection laws and regulations.
-  14. DCTAs must not discriminate and developers should perform due diligence to understand the impacts of unintended consequences. 
-  15. Contact tracing apps should use an openly published protocol to ensure that their solution is verifiable and interoperable. For example, [the TCN Protocol][4], and [Apple/Google COVID-19 contact tracing technology][5]. 
+  10. Consumers have ownership over the data collected and stored on their mobile device. 
+  11. Data collected-by or derived-from {{< dcta >}} apps should not be monetized, shared, or used for any other non-public-health purpose. This includes third party analytics, ad tracking, and other common third party data collectors. 
+  12. {{< dcta >}} apps shall be developed in collaboration with the privacy and security community, human rights and civil liberties organizations, government agencies, technology community, and public health professionals, including epidemiologists.
+  13. All {{< dcta >}} apps must be in compliance with local data protection laws and regulations.
+  14. {{< dcta >}}s must not discriminate and developers should perform due diligence to understand the impacts of unintended consequences. 
+  15. {{< dcta >}} apps should use an openly published protocol to ensure that their solution is verifiable and interoperable. For example, [the TCN Protocol][4], and [Apple/Google COVID-19 contact tracing technology][5]. 
 </div>
 
  [4]: https://github.com/TCNCoalition/TCN
