@@ -5,7 +5,7 @@ draft: false
 menu: ["main", "footer"]
 ---
 
-This document was drafted primarily by Cari Spivack, Andrew Trask and Harper Reed. It was written in an effort to unite a lot of the concerns and feedback we were hearing in our conversations around {{< dcta expand="True">}}. 
+This document was drafted primarily by Harper Reed, Cari Spivack, and Andrew Trask. It was written in an effort to unite a lot of the concerns and feedback we were hearing in our conversations around {{< dcta expand="True">}}. 
 
 We kicked off a frantic editing process and were very lucky to have the following people help out:
 
@@ -28,14 +28,13 @@ The following organizations have joined us in upholding this data rights framewo
 
 It is worth noting that we stand on the shoulders of those who came beforehand. We found that a lot of folks were defining similar data frameworks and we were happy to see that we share a lot of ideas. We found the following very helpful and influential: 
 
-  * [https://www.ccc.de/en/updates/2020/contact-tracing-requirements][10]
-  * [https://law.mit.edu/pub/covid19contacttracingprivacyprinciples][11]
+  * [CCC: 10 requirements for the evaluation of "Contact Tracing" apps](https://www.ccc.de/en/updates/2020/contact-tracing-requirements)
+  * [COVID-19 Contact Tracing Privacy Principles](https://law.mit.edu/pub/covid19contacttracingprivacyprinciples)
+  * [Recommendations on Privacy and Data Protection in the Fight Against COVID-19](https://www.accessnow.org/cms/assets/uploads/2020/03/Access-Now-recommendations-on-Covid-and-data-protection-and-privacy.pdf)
 
-   [10]: https://www.ccc.de/en/updates/2020/contact-tracing-requirements
-   [11]: https://law.mit.edu/pub/covid19contacttracingprivacyprinciples
 
 ## Contact us
 
-Please reach out if you have any questions: questions@dcta-datarights.com
+Please reach out if you have any questions: [questions@dcta-datarights.com](mailto:questions@dcta-datarights.com)
 
 We are always looking for new members and feedback. 
