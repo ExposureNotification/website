@@ -8,15 +8,19 @@
   country: Global
   logo: images/members/tcn-coalition-logo.png
   url: https://tcn-coalition.org/
+  type: advisor
 - organization: U.S. Digital Response
   country: USA
   logo: images/members/USDR-logo.png
   url: https://usdigitalresponse.org/
+  type: advisor
 - organization: OpenMined
   country: UK
   logo: images/members/openmined-logo.svg
   url: https://openmined.org/
+  type: advisor
 - organization: CoEpi
   country: USA
   logo: images/members/coepi-logo.svg
   url: https://www.coepi.org/
+  type: app
