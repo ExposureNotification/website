@@ -66,7 +66,7 @@ Contact tracing is an epidemiological process to help model the spread of an epi
 
 The Rights should be part of the standard toolkit for developing a {{< dcta >}} app. 
 
-## Who is the Audience?
+## Who is the audience?
 
 Open source communities, developers and private organizations seem to be leading the charge on creating {{< dcta >}} apps. 
 
