@@ -1,5 +1,4 @@
 [build]
-HUGO_VERSION = "0.68.3"
 publish = "public"
 command = "hugo --gc --minify"
 
