@@ -10,5 +10,8 @@ HUGO_ENABLEGITINFO = "true"
 
 [context.deploy-preview]
 command = "hugo --gc --buildFuture -b $DEPLOY_PRIME_URL"
+
+[context.deploy-preview.environment]
+HUGO_VERSION = "0.53"
 HUGO_ENV = "staging"
 HUGO_ENABLEGITINFO = "true"
