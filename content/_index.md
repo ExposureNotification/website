@@ -11,7 +11,7 @@ menu:
 
 ---
 
-Right now, digital contact tracing apps are being built around the world to help societies mitigate both the economic and pandemic threats they face. Individual Data Rights for Digital Contact Tracing and Alerting ({{< dcta >}}) are best practices for how consumer {{< dcta >}} systems should respect and handle consumer data. The Rights were developed in collaboration with the privacy and security community, human rights and civil liberties organizations, government agencies, technology community, and public health professionals, including epidemiologists. 
+Right now, digital contact tracing apps are being built around the world to help societies mitigate both the economic and pandemic threats they face. Individual Data Rights for Digital Contact Tracing and Alerting ({{< dcta >}}) are best practices for how consumer {{< dcta >}} systems should respect and handle consumer data. The Data Rights were developed in collaboration with the privacy and security community, human rights and civil liberties organizations, government agencies, technology community, and public health professionals, including epidemiologists. 
 
 ## General {{< dcta >}} Data Use
 
@@ -21,9 +21,9 @@ Right now, digital contact tracing apps are being built around the world to help
   * Inform health officials of high level trends in exposure (not individual level)
   * Verifying to authorities that an individual is healthy or sick with the explicit consent of the individual at each verification.
 
-Private-sector contact tracing apps should be open source and/or available for audit from an independent third party.
+{{< dcta >}} apps should be open source and/or available for audit from an independent third party.
 
-When developing a {{< dcta >}} app, developers should identify one or more well-defined problems that will be mitigated, solved, or improved.
+When developing a {{< dcta >}} app, developers should identify one or more well-defined problems in consultation with public health experts that will be mitigated, solved, or improved.
 
 ## Individual Data Rights for {{< dcta expand="True">}}
 
@@ -35,7 +35,7 @@ When developing a {{< dcta >}} app, developers should identify one or more well-
   4. {{< dcta >}} apps must be fully accessible and based on the latest [W3C/WAI standards](https://www.w3.org/WAI/standards-guidelines/mobile/).
   5. Information such as location history, symptom reports, demographic information, or similar shared with public health officials or researchers must never be linked back to or used to re-identify individuals, even by entities legally allowed to perform such linkage. 
   6. Data may be aggregated so that it may not allow for the identification of individuals. Aggregate data should be processed with privacy-protecting techniques such as differential privacy. The methodologies and techniques should be available for public review. Aggregate data may be maintained for public research purposes. Precautions should be taken to ensure that shared aggregate data may not be re-identified downstream.
-  7. Application developers should have a very clear and reasonable data retention policy based on epidemiological standards, and must not retain any data for longer than required to achieve the app's objective.
+  7. Application developers should have a very clear and reasonable data retention policy based on epidemiological standards, and must not retain any data for longer than required to achieve the app’s objective. {{< dcta >}} apps should have a clearly defined plan for the destruction of data once {{< dcta >}} apps are no longer necessary.
   8. Data should be secured on the consumer's device according to industry best practices.
   9. Consumers have ownership over the data collected and stored on their mobile devices. 
   10. Data collected-by or derived-from {{< dcta >}} apps should not be monetized, shared, or used for any other non-public-health purpose. This includes third party analytics, ad tracking, and other common third party data collectors. 
@@ -50,11 +50,11 @@ When developing a {{< dcta >}} app, developers should identify one or more well-
 
  [5]: https://www.apple.com/newsroom/2020/04/apple-and-google-partner-on-covid-19-contact-tracing-technology/
 
-## Why are the rights necessary?
+## Why are The Data Rights necessary?
 
 Epidemiologists identify {{< dcta >}} as a tool that can help get people treated earlier, and reopen society. For digital contact tracing to be effective, it must have high adoption. However, large scale centralized digital contact tracing could be used for unwanted surveillance. Location-tracking apps have exposed major concerns that these tech solutions will permanently erode the privacy of a large number of the world's population.
 
-It is now apparent that measures needed to control the damage from COVID-19 will be ongoing and long-term. It is crucially important that the tech solutions rapidly built during this period comply with data privacy regulations and do not set the public up for future exploitation. The solution to these problems is requiring that developers build apps on a foundation of privacy-preservation and interoperability. The Rights are necessary to achieve this end.
+It is now apparent that measures needed to control the damage from COVID-19 will be ongoing and long-term. It is crucially important that the tech solutions rapidly built during this period comply with data privacy regulations and do not set the public up for future exploitation. The solution to these problems is requiring that developers build apps on a foundation of privacy-preservation and interoperability. The Data  Rights are necessary to achieve this end.
 
 ## What is contact tracing?
 
@@ -64,9 +64,9 @@ Contact tracing is an epidemiological process to help model the spread of an epi
 
 ## What is the objective?
 
-The Rights should be part of the standard toolkit for developing a {{< dcta >}} app. 
+The Data Rights should be part of the standard toolkit for developing a {{< dcta >}} app. 
 
-## Who is the Audience?
+## Who is the audience?
 
 Open source communities, developers and private organizations seem to be leading the charge on creating {{< dcta >}} apps. 
 
@@ -74,7 +74,7 @@ Open source communities, developers and private organizations seem to be leading
 
 Developers: When building apps to aid this pandemic, adopt the {{< dcta >}} Data Rights to build the most effective app without causing harm.
 
-Use them to guide your user stories and UX. The Rights have been reviewed and agreed upon by several organizations, however, the Rights are a live document. They will likely evolve to address new approaches and standards. Developers are at the frontlines and will need to help contribute to make sure that the Rights remain the standard.
+Use them to guide your user stories and UX. The Data Rights have been reviewed and agreed upon by several organizations, however, the Data Rights are a live document. They will likely evolve to address new approaches and standards. Developers are at the frontlines and will need to help contribute to make sure that the Data Rights remain the standard.
 
 ## Member organizations
 
