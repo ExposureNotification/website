@@ -34,6 +34,7 @@ When developing a {{< dcta >}} app, developers should identify one or more well-
   3. When consumers choose to altruistically share their health information, that information should remain completely anonymous: no information should be required other than that which is essential, based on epidemiological standards, for alerting others to potential exposure. 
   4. {{< dcta >}} apps must be fully accessible and based on the latest [W3C/WAI standards](https://www.w3.org/WAI/standards-guidelines/mobile/).
   5. Information such as location history, symptom reports, demographic information, or similar shared with public health officials or researchers must never be linked back to or used to re-identify individuals, even by entities legally allowed to perform such linkage. 
+<<<<<<< HEAD
   6. Data may be aggregated so that it may not allow for the identification of individuals. Aggregate data may be maintained for public research purposes. Precautions should be taken to ensure that shared aggregate data may not be re-identified downstream.  
   7. Application developers should have a very clear and reasonable data retention policy based on epidemiological standards, and must not retain any data for longer than required to achieve the app's objective. Data should be deleted upon a determination by public health officials that {{< dcta >}} is no longer necessary. 
   8. Aggregate data should be processed with privacy-protecting techniques such as differential privacy. The methodologies and techniques should be available for public review. 
@@ -44,6 +45,17 @@ When developing a {{< dcta >}} app, developers should identify one or more well-
   13. All {{< dcta >}} apps must be in compliance with local data protection laws and regulations.
   14. {{< dcta >}} apps must not discriminate and developers should perform due diligence to understand the impacts of unintended consequences. 
   15. {{< dcta >}} apps should use an openly published protocol to ensure that their solution is verifiable and interoperable. For example, [the TCN Protocol][4], and [Apple/Google COVID-19 contact tracing technology][5]. 
+=======
+  6. Data may be aggregated so that it may not allow for the identification of individuals. Aggregate data should be processed with privacy-protecting techniques such as differential privacy. The methodologies and techniques should be available for public review. Aggregate data may be maintained for public research purposes. Precautions should be taken to ensure that shared aggregate data may not be re-identified downstream.
+  7. Application developers should have a very clear and reasonable data retention policy based on epidemiological standards, and must not retain any data for longer than required to achieve the app's objective.
+  8. Data should be secured on the consumer's device according to industry best practices.
+  9. Consumers have ownership over the data collected and stored on their mobile devices. 
+  10. Data collected-by or derived-from {{< dcta >}} apps should not be monetized, shared, or used for any other non-public-health purpose. This includes third party analytics, ad tracking, and other common third party data collectors. 
+  11. {{< dcta >}} apps shall be developed in collaboration with the privacy and security community, human rights and civil liberties organizations, government agencies, technology community, and public health professionals, including epidemiologists.
+  12. All {{< dcta >}} apps must be in compliance with local data protection laws and regulations.
+  13. {{< dcta >}} apps must not discriminate and developers should perform due diligence to understand the impacts of unintended consequences. 
+  14. {{< dcta >}} apps should use an openly published protocol to ensure that their solution is verifiable and interoperable. For example, [the TCN Protocol][4], and [Apple/Google COVID-19 contact tracing technology][5]. 
+>>>>>>> master
 
 </div>
 
