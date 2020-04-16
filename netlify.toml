@@ -1,4 +1,5 @@
 [build]
+HUGO_VERSION = "0.68.3"
 publish = "public"
 command = "hugo --gc --minify"
 
@@ -8,7 +9,6 @@ HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
 [context.deploy-preview]
-HUGO_VERSION = "0.68.3"
 command = "hugo --gc --buildFuture -b $DEPLOY_PRIME_URL"
 HUGO_ENV = "staging"
 HUGO_ENABLEGITINFO = "true"
