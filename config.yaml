@@ -15,7 +15,7 @@ params:
   keywords: "privacy, data rights, contact tracing, digital contact tracing, contact tracing and alerting"
   cachebuster: ""
   name: "Data Rights for Digital Contact Tracing and Alerting"
-  email: questions@dcta-datarights.org
+  email: questions@contacttracingrights.org
   
 disableKinds:
   - taxonomy
