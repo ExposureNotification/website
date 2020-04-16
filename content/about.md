@@ -35,6 +35,6 @@ It is worth noting that we stand on the shoulders of those who came beforehand. 
 
 ## Contact us
 
-Please reach out if you have any questions: [questions@dcta-datarights.com](mailto:questions@dcta-datarights.com)
+Please reach out if you have any questions: [questions@contacttracingrights.org](mailto:questions@contacttracingrights.org)
 
 We are always looking for new members and feedback. 
