@@ -50,7 +50,7 @@ When developing a {{< dcta >}} app, developers should identify one or more well-
 
  [5]: https://www.apple.com/newsroom/2020/04/apple-and-google-partner-on-covid-19-contact-tracing-technology/
 
-## Why are the data rights necessary?
+## Why are The Data Rights necessary?
 
 Epidemiologists identify {{< dcta >}} as a tool that can help get people treated earlier, and reopen society. For digital contact tracing to be effective, it must have high adoption. However, large scale centralized digital contact tracing could be used for unwanted surveillance. Location-tracking apps have exposed major concerns that these tech solutions will permanently erode the privacy of a large number of the world's population.
 
