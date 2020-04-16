@@ -21,9 +21,9 @@ Right now, digital contact tracing apps are being built around the world to help
   * Inform health officials of high level trends in exposure (not individual level)
   * Verifying to authorities that an individual is healthy or sick with the explicit consent of the individual at each verification.
 
-Private-sector contact tracing apps should be open source and/or available for audit from an independent third party.
+{{< dcta >}} apps should be open source and/or available for audit from an independent third party.
 
-When developing a {{< dcta >}} app, developers should identify one or more well-defined problems that will be mitigated, solved, or improved.
+When developing a {{< dcta >}} app, developers should identify one or more well-defined problems in consultation with public health experts that will be mitigated, solved, or improved.
 
 ## Individual Data Rights for {{< dcta expand="True">}}
 
@@ -35,7 +35,7 @@ When developing a {{< dcta >}} app, developers should identify one or more well-
   4. {{< dcta >}} apps must be fully accessible and based on the latest [W3C/WAI standards](https://www.w3.org/WAI/standards-guidelines/mobile/).
   5. Information such as location history, symptom reports, demographic information, or similar shared with public health officials or researchers must never be linked back to or used to re-identify individuals, even by entities legally allowed to perform such linkage. 
   6. Data may be aggregated so that it may not allow for the identification of individuals. Aggregate data may be maintained for public research purposes. Precautions should be taken to ensure that shared aggregate data may not be re-identified downstream.  
-  7. Application developers should have a very clear and reasonable data retention policy based on epidemiological standards, and must not retain any data for longer than required to achieve the app's objective.
+  7. Application developers should have a very clear and reasonable data retention policy based on epidemiological standards, and must not retain any data for longer than required to achieve the app's objective. Data should be deleted upon a determination by public health officials that {{< dcta >}} is no longer necessary. 
   8. Aggregate data should be processed with privacy-protecting techniques such as differential privacy. The methodologies and techniques should be available for public review. 
   9. Data should be secured on the consumer's device according to industry best practices.
   10. Consumers have ownership over the data collected and stored on their mobile devices. 
