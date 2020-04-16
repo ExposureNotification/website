@@ -11,7 +11,7 @@ menu:
 
 ---
 
-Right now, digital contact tracing apps are being built around the world to help societies mitigate both the economic and pandemic threats they face. Individual Data Rights for Digital Contact Tracing and Alerting ({{< dcta >}}) are best practices for how consumer {{< dcta >}} systems should respect and handle consumer data. The Rights were developed in collaboration with the privacy and security community, human rights and civil liberties organizations, government agencies, technology community, and public health professionals, including epidemiologists. 
+Right now, digital contact tracing apps are being built around the world to help societies mitigate both the economic and pandemic threats they face. Individual Data Rights for Digital Contact Tracing and Alerting ({{< dcta >}}) are best practices for how consumer {{< dcta >}} systems should respect and handle consumer data. The Data Rights were developed in collaboration with the privacy and security community, human rights and civil liberties organizations, government agencies, technology community, and public health professionals, including epidemiologists. 
 
 ## General {{< dcta >}} Data Use
 
@@ -50,11 +50,11 @@ When developing a {{< dcta >}} app, developers should identify one or more well-
 
  [5]: https://www.apple.com/newsroom/2020/04/apple-and-google-partner-on-covid-19-contact-tracing-technology/
 
-## Why are the rights necessary?
+## Why are the data rights necessary?
 
 Epidemiologists identify {{< dcta >}} as a tool that can help get people treated earlier, and reopen society. For digital contact tracing to be effective, it must have high adoption. However, large scale centralized digital contact tracing could be used for unwanted surveillance. Location-tracking apps have exposed major concerns that these tech solutions will permanently erode the privacy of a large number of the world's population.
 
-It is now apparent that measures needed to control the damage from COVID-19 will be ongoing and long-term. It is crucially important that the tech solutions rapidly built during this period comply with data privacy regulations and do not set the public up for future exploitation. The solution to these problems is requiring that developers build apps on a foundation of privacy-preservation and interoperability. The Rights are necessary to achieve this end.
+It is now apparent that measures needed to control the damage from COVID-19 will be ongoing and long-term. It is crucially important that the tech solutions rapidly built during this period comply with data privacy regulations and do not set the public up for future exploitation. The solution to these problems is requiring that developers build apps on a foundation of privacy-preservation and interoperability. The Data  Rights are necessary to achieve this end.
 
 ## What is contact tracing?
 
@@ -64,7 +64,7 @@ Contact tracing is an epidemiological process to help model the spread of an epi
 
 ## What is the objective?
 
-The Rights should be part of the standard toolkit for developing a {{< dcta >}} app. 
+The Data Rights should be part of the standard toolkit for developing a {{< dcta >}} app. 
 
 ## Who is the audience?
 
@@ -74,7 +74,7 @@ Open source communities, developers and private organizations seem to be leading
 
 Developers: When building apps to aid this pandemic, adopt the {{< dcta >}} Data Rights to build the most effective app without causing harm.
 
-Use them to guide your user stories and UX. The Rights have been reviewed and agreed upon by several organizations, however, the Rights are a live document. They will likely evolve to address new approaches and standards. Developers are at the frontlines and will need to help contribute to make sure that the Rights remain the standard.
+Use them to guide your user stories and UX. The Data Rights have been reviewed and agreed upon by several organizations, however, the Data Rights are a live document. They will likely evolve to address new approaches and standards. Developers are at the frontlines and will need to help contribute to make sure that the Data Rights remain the standard.
 
 ## Member organizations
 
