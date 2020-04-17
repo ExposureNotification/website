@@ -30,3 +30,8 @@
   logo: images/members/covidwatch-logo.svg
   url: https://www.covid-watch.org/
   type: app
+- organization: Apheris AI
+  country: Germany
+  logo: images/members/apheris-logo.png
+  url: https://www.apheris.com/
+  type: adviser
