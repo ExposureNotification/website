@@ -7,10 +7,10 @@
     <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
     </p>
     <p class="text-muted small align-center">
-        Copyright &copy; {{ now.Format "2006" }} Cari Spivack, Andrew Trask and Harper Reed &middot; 
+        Copyright &copy; {{ now.Format "2006" }} {{.Site.Params.author}} &middot; 
         Contact <a href="mailto:{{.Site.Params.email}}">{{.Site.Params.email}}</a></p>
     <p class="text-muted small align-center">
-        View on github: <a href="https://github.com/ContactTracingRights/contacttracingrights">ContactTracingRights/contacttracingrights</a>
+        View on github: <a href="https://github.com/{{.Site.Params.github}}">{{.Site.Params.github}}</a>. If you have feedback, please submit an <a href="https://github.com/{{.Site.Params.github}}/issues/new/choose">issue</a> or <a href="mailto:{{.Site.Params.email}}">email us</a>.
     </p>    
         <!--  &middot; Generated @ {{ now.Format "Jan 2, 2006" }} -->
 </footer>
