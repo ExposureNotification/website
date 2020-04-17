@@ -11,18 +11,17 @@ sectionPagesMenu: main
 
 params:
   description: "Individual Data Rights for Digital Contact Tracing and Alerting ( DCTA ) are best practices for how consumer DCTAs should respect and handle consumer data. The Rights were developed in collaboration with the privacy and security community, government agencies, technology community, and public health professionals, including epidemiologists."
-  author: "Harper Reed"
+  author: "Cari Spivack, Andrew Trask and Harper Reed"
   keywords: "privacy, data rights, contact tracing, digital contact tracing, contact tracing and alerting"
-  cachebuster: ""
   name: "Data Rights for Digital Contact Tracing and Alerting"
   email: questions@contacttracingrights.org
+  github: ContactTracingRights/website
   
 disableKinds:
   - taxonomy
   - taxonomyTerm
   - rss
   - section
-
 
 markup:
   goldmark:
