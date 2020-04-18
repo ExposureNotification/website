@@ -35,3 +35,8 @@
   logo: images/members/apheris-logo.png
   url: https://www.apheris.com/
   type: adviser
+- organization: ito
+  country: Germany
+  logo: images/members/ito.png
+  url: https://www.ito-app.org/
+  type: app
