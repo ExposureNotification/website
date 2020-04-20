@@ -13,6 +13,8 @@ We kicked off a frantic editing process and were very lucky to have the followin
 
 If you want to  see the history and the progress feel free to view our [google doc](https://docs.google.com/document/d/105zuL8z_KGEp7nwLk6WBJGvKaQ4I14PF3Kq0qpnUYis/edit?usp=sharing) where the editing occured. 
 
+Thanks for [Aaron Salmon](https://www.linkedin.com/in/aaronsalmon/) for making this site look good and make sense. 
+
 ---
 ## Signatories of the Individual Data Rights for {{< dcta expand="True">}}
 
