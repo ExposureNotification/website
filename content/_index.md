@@ -42,13 +42,9 @@ When developing a {{< dcta >}} app, developers should identify one or more well-
   11. {{< dcta >}} apps shall be developed in collaboration with the privacy and security community, human rights and civil liberties organizations, government agencies, technology community, and public health professionals, including epidemiologists.
   12. All {{< dcta >}} apps must be in compliance with local data protection laws and regulations.
   13. {{< dcta >}} apps must not discriminate and developers should perform due diligence to understand the impacts of unintended consequences. 
-  14. {{< dcta >}} apps should use an openly published protocol to ensure that their solution is verifiable and interoperable. For example, [the TCN Protocol][4], and [Apple/Google COVID-19 contact tracing technology][5]. 
+  14. {{< dcta >}} apps should use an openly published protocol to ensure that their solution is verifiable and interoperable. For example, [DP^3T](https://github.com/DP-3T/), [PACT](https://pact.mit.edu/), [the TCN Protocol](https://github.com/TCNCoalition/TCN), and [Apple/Google COVID-19 contact tracing technology](https://www.apple.com/newsroom/2020/04/apple-and-google-partner-on-covid-19-contact-tracing-technology/). 
 
 </div>
-
- [4]: https://github.com/TCNCoalition/TCN
-
- [5]: https://www.apple.com/newsroom/2020/04/apple-and-google-partner-on-covid-19-contact-tracing-technology/
 
 ## Why are The Data Rights necessary?
 
