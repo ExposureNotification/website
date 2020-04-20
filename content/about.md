@@ -18,9 +18,7 @@ If you want to  see the history and the progress feel free to view our [google d
 
 The following organizations have joined us in upholding this data rights framework:
 
-
 {{< members  >}}
-
 
 ---
 
@@ -31,6 +29,7 @@ It is worth noting that we stand on the shoulders of those who came beforehand. 
   * [CCC: 10 requirements for the evaluation of "Contact Tracing" apps](https://www.ccc.de/en/updates/2020/contact-tracing-requirements)
   * [COVID-19 Contact Tracing Privacy Principles](https://law.mit.edu/pub/covid19contacttracingprivacyprinciples)
   * [Recommendations on Privacy and Data Protection in the Fight Against COVID-19](https://www.accessnow.org/cms/assets/uploads/2020/03/Access-Now-recommendations-on-Covid-and-data-protection-and-privacy.pdf)
+  * [Principles for Technology-Assisted Contact-Tracing](https://www.aclu.org/sites/default/files/field_document/aclu_white_paper_-_contact_tracing_principles.pdf) from ACLU
 
 
 ## Contact us
