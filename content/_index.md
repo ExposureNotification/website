@@ -27,14 +27,14 @@ Based on a lot of feedback and a rapidly changing ecosystem, we have changed the
 
 {{< epa >}} apps should be open source and/or available for audit from an independent third party.
 
-When developing a {{< epa >}} app, developers should identify one or more well-defined problems in consultation with public health experts that will be mitigated, solved, or improved.
+When developing an {{< epa >}} app, developers should identify one or more well-defined problems in consultation with public health experts that will be mitigated, solved, or improved.
 
 ## Individual Data Rights for {{< epa expand="True">}}
 
 <div class="rights">
 
   1. Data collection should be limited to achieve a defined purpose and should only collect the minimum data necessary. 
-  2. All information disclosed by consumers through a {{< epa >}} app should be completely opt-in, with clear informed consent both as to the nature of what they're disclosing, how it is used, the likely impacts of disclosure and use, and any choices the consumers may have. Any new use requires fresh consent. Consumers can withdraw their consent at any time.
+  2. All information disclosed by consumers through an {{< epa >}} app should be completely opt-in, with clear informed consent both as to the nature of what they're disclosing, how it is used, the likely impacts of disclosure and use, and any choices the consumers may have. Any new use requires fresh consent. Consumers can withdraw their consent at any time.
   3. When consumers choose to altruistically share their health information, that information should remain completely anonymous: no information should be required other than that which is essential, based on epidemiological standards, for alerting others to potential exposure. 
   4. {{< epa >}} apps must be fully accessible and based on the latest [W3C/WAI standards](https://www.w3.org/WAI/standards-guidelines/mobile/).
   5. Information such as location history, symptom reports, demographic information, or similar shared with public health officials or researchers must never be linked back to or used to re-identify individuals, even by entities legally allowed to perform such linkage. 
@@ -64,7 +64,7 @@ Contact tracing is an epidemiological process to help model the spread of an epi
 
 ## What is the objective?
 
-The Data Rights should be part of the standard toolkit for developing a {{< epa >}} app. 
+The Data Rights should be part of the standard toolkit for developing an {{< epa >}} app. 
 
 ## Who is the audience?
 
