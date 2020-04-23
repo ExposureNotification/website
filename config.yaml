@@ -2,7 +2,7 @@ baseURL: /
 
 publishDir: "public"
 languageCode: en-us
-title: "Data Rights for Digital Contact Tracing and Alerting"
+title: "Data Rights for Exposure Alerting"
 theme: "dcta-datarights-theme"
 
 canonifyURLs: true
@@ -10,10 +10,10 @@ enableRobotsTXT: true
 sectionPagesMenu: main
 
 params:
-  description: "Individual Data Rights for Digital Contact Tracing and Alerting ( DCTA ) are best practices for how consumer DCTAs should respect and handle consumer data. The Rights were developed in collaboration with the privacy and security community, government agencies, technology community, and public health professionals, including epidemiologists."
+  description: "Individual Data Rights for Exposure Alerting are best practices for how consumer Exposure Alerting apps should respect and handle consumer data. The Rights were developed in collaboration with the privacy and security community, government agencies, technology community, and public health professionals, including epidemiologists."
   author: "Cari Spivack, Andrew Trask and Harper Reed"
-  keywords: "privacy, data rights, contact tracing, digital contact tracing, contact tracing and alerting"
-  name: "Data Rights for Digital Contact Tracing and Alerting"
+  keywords: "privacy, data rights, contact tracing, digital contact tracing, Exposure Alerting, contact tracing and alerting"
+  name: "Data Rights for Exposure Alerting"
   email: questions@contacttracingrights.org
   github: ContactTracingRights/website
   
