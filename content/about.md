@@ -5,7 +5,7 @@ draft: false
 menu: ["main", "footer"]
 ---
 
-This document was drafted primarily by Harper Reed, Cari Spivack, and Andrew Trask. It was written in an effort to unite a lot of the concerns and feedback we were hearing in our conversations around {{< dcta expand="True">}}. 
+This document was drafted primarily by Harper Reed, Cari Spivack, and Andrew Trask. It was written in an effort to unite a lot of the concerns and feedback we were hearing in our conversations around {{< epa expand="True">}}. 
 
 We kicked off a frantic editing process and were very lucky to have the following people help out:
 
@@ -16,7 +16,7 @@ If you want to  see the history and the progress feel free to view our [google d
 A big shoutout and thanks to [Aaron Salmon](https://www.linkedin.com/in/aaronsalmon/) for the design and IA work. 
 
 ---
-## Signatories of the Individual Data Rights for {{< dcta expand="True">}}
+## Signatories of the Individual Data Rights for {{< epa expand="True">}}
 
 The following organizations have joined us in upholding this data rights framework:
 
