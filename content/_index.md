@@ -11,7 +11,11 @@ menu:
 
 ---
 
-Right now, digital contact tracing apps are being built around the world to help societies mitigate both the economic and pandemic threats they face. Individual Data Rights for Digital Contact Tracing and Alerting ({{< epa >}}) are best practices for how consumer {{< epa >}} systems should respect and handle consumer data. The Data Rights were developed in collaboration with the privacy and security community, human rights and civil liberties organizations, government agencies, technology community, and public health professionals, including epidemiologists. 
+Right now, exposure alerting apps are being built around the world to help societies mitigate both the economic and pandemic threats they face. Individual Data Rights for {{< epa >}} are best practices for how consumer {{< epa >}} systems should respect and handle consumer data. The Data Rights were developed in collaboration with the privacy and security community, human rights and civil liberties organizations, government agencies, technology community, and public health professionals, including epidemiologists. 
+
+### A note on the name: Digital Contact Tracing vs Exposure Alerting
+
+Based on a lot of feedback and a rapidly changing ecosystem, we have changed the name of these systems from "Digital Contact Tracing and Alerting" to "Exposure Alerting." This  represents what these apps do and is a clearer break from Manual Contact Tracing. If you want more information, please read Harper Reed's [blog post on the naming](https://harper.blog/2020/04/22/digital-contact-tracing-and-alerting-vs-exposure-alerting/). 
 
 ## General {{< epa >}} Data Use
 
