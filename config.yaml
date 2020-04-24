@@ -14,7 +14,7 @@ params:
   author: "Cari Spivack, Andrew Trask and Harper Reed"
   keywords: "privacy, data rights, contact tracing, digital contact tracing, Exposure Alerting, contact tracing and alerting"
   name: "Data Rights for Exposure Alerting"
-  email: questions@contacttracingrights.org
+  email: questions@exposurealerting.org
   github: ContactTracingRights/website
   
 disableKinds:
