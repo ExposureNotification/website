@@ -2,7 +2,7 @@ baseURL: /
 
 publishDir: "public"
 languageCode: en-us
-title: "Data Rights for Exposure Alerting"
+title: "Data Rights for Exposure Notification"
 theme: "dcta-datarights-theme"
 
 canonifyURLs: true
@@ -10,11 +10,11 @@ enableRobotsTXT: true
 sectionPagesMenu: main
 
 params:
-  description: "Individual Data Rights for Exposure Alerting are best practices for how consumer Exposure Alerting apps should respect and handle consumer data. The Rights were developed in collaboration with the privacy and security community, government agencies, technology community, and public health professionals, including epidemiologists."
+  description: "Individual Data Rights for Exposure Notification are best practices for how consumer Exposure Alerting apps should respect and handle consumer data. The Rights were developed in collaboration with the privacy and security community, government agencies, technology community, and public health professionals, including epidemiologists."
   author: "Cari Spivack, Andrew Trask and Harper Reed"
-  keywords: "privacy, data rights, contact tracing, digital contact tracing, Exposure Alerting, contact tracing and alerting"
-  name: "Data Rights for Exposure Alerting"
-  email: questions@exposurealerting.org
+  keywords: "privacy, Exposure Notification, data rights, contact tracing, digital contact tracing, Exposure Alerting, contact tracing and alerting"
+  name: "Data Rights for Exposure Notification"
+  email: questions@exposurenotification.org
   github: ContactTracingRights/website
   
 disableKinds:
