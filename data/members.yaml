@@ -42,6 +42,6 @@
   type: app
 - organization: Safe2
   country: USA
-  logo images/members/safe2-profile-pic-1.png
+  logo: images/members/safe2-profile-pic-1.png
   type: app
  
