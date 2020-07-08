@@ -13,8 +13,6 @@ menu:
 
 Right now, exposure notification apps are being built around the world to help societies mitigate both the economic and pandemic threats they face. Individual Data Rights for {{< term >}} are best practices for how consumer {{< term >}} systems should respect and handle consumer data. The Data Rights were developed in collaboration with the privacy and security community, human rights and civil liberties organizations, government agencies, technology community, and public health professionals, including epidemiologists. 
 
-## Updates
-
 {{< updates >}}
 
 ## General {{< term >}} Data Use
