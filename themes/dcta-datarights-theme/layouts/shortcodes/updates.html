@@ -1,7 +1,7 @@
 <hr>
 <h2>Updates</h2>
 {{ range (where .Site.Pages "Type" "post") }}
-<h3 id="{{ .File.BaseFileName }}" name="{{ .File.BaseFileName }}">{{ .Title}} <small>{{.Date.Format "1/2/2006" }}</small></h3>
+<h3 id="{{ .File.BaseFileName }}" name="{{ .File.BaseFileName }}">{{ .Title}} <small class="muted">{{.Date.Format "1/2/2006" }}</small></h3>
 
 {{ .Content }}
 {{ end }}
