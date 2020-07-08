@@ -13,6 +13,13 @@ menu:
 
 Right now, exposure notification apps are being built around the world to help societies mitigate both the economic and pandemic threats they face. Individual Data Rights for {{< term >}} are best practices for how consumer {{< term >}} systems should respect and handle consumer data. The Data Rights were developed in collaboration with the privacy and security community, human rights and civil liberties organizations, government agencies, technology community, and public health professionals, including epidemiologists. 
 
+## Model Data Protection Agreement
+
+
+Cari Spivack, our collaboarator on this framework, has worked with U.S. Digital Response to publish a Model Data Protection Agreement to help ensure an appropriate balance between those who produce data for these apps and those who use data produced by these apps. It is a great practical way to understand how our privacy framework fits into a tactical approach to launching Contact Tracing and Exposure Notification apps. 
+
+You can view it [here](https://law.mit.edu/pub/modeldpaforgovernment/release/1). If you have questions, you can email [USDR(mailto:dpa@usdigitalresponse.org), [Cari](mailto:cari@usdigitalresponse.org) or [Harper](mailto:harper@modest.com)
+
 ### A note on the name: Digital Contact Tracing vs {{< term >}}
 
 Based on a lot of feedback and a rapidly changing ecosystem, we have changed the name of these systems from "Digital Contact Tracing and Alerting" to "{{< term >}}." This  represents what these apps do and is a clearer break from Manual Contact Tracing. If you want more information, please read Harper Reed's [blog post on the naming](https://harper.blog/2020/04/22/digital-contact-tracing-and-alerting-vs-exposure-alerting/). 
