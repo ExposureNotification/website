@@ -1,6 +1,6 @@
 ---
 title: "A note on the name: Digital Contact Tracing vs Exposure Notification"
-date: 2020-04-22T16:36:41-05:00
+date: 2020-04-05T16:36:41-05:00
 draft: false
 ---
 
