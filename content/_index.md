@@ -15,7 +15,7 @@ Right now, exposure notification apps are being built around the world to help s
 
 ## Updates
 
-{{ < updates >}}
+{{< updates >}}
 
 ## General {{< term >}} Data Use
 
