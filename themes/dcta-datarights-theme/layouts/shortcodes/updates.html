@@ -1,4 +1,5 @@
 <hr>
+<h2>Updates</h2>
 {{ range (where .Site.Pages "Type" "post") }}
 <h3 id="{{ .File.BaseFileName }}" name="{{ .File.BaseFileName }}">{{ .Title}}</h3>
 {{ .Content }}
