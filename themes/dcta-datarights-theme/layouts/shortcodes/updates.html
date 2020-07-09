@@ -1,0 +1,9 @@
+<hr>
+<h2>Updates</h2>
+{{ range (where .Site.Pages "Type" "post") }}
+  <h3 id="{{ .File.BaseFileName }}" name="{{ .File.BaseFileName }}">{{ .Title}} </h3>
+  <h5 class="muted">Posted on {{.Date.Format "1/2/2006" }}</h5>
+  {{ .Content }}
+{{ end }}
+<hr>
+

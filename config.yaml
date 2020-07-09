@@ -7,7 +7,7 @@ theme: "dcta-datarights-theme"
 
 canonifyURLs: true
 enableRobotsTXT: true
-sectionPagesMenu: main
+
 
 params:
   description: "Individual Data Rights for Exposure Notification are best practices for how consumer Exposure Alerting apps should respect and handle consumer data. The Rights were developed in collaboration with the privacy and security community, government agencies, technology community, and public health professionals, including epidemiologists."
