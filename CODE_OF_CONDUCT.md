@@ -33,7 +33,7 @@ Project maintainers are responsible for clarifying the standards of acceptable b
 
 Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem threatening, offensive, or harmful.
 
-## Enforcement
+## Enforcements
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting Cari Spivack, Andrew Trask or Harper Reed. You may also submit a report by sending an email to questions@dcta-datarights.com. 
 
