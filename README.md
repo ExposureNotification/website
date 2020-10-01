@@ -1,4 +1,4 @@
-# Individual Data Rights for Digital Contact Tracing and Alerting  - dcta-datarights.com
+# Individual Data Rights for Digital Contact Tracing and Alerting  - dcta-datarights.com(an amazing project)
 
 This is the website for DCTA-datarights.com. A framework for developers, funders, etc to judge the individual data rights of a digital contact tracing solution.
 
