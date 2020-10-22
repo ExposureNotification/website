@@ -1,6 +1,6 @@
 # Individual Data Rights for Digital Contact Tracing and Alerting  - dcta-datarights.com
 
-This is the website for DCTA-datarights.com. A framework for developers, funders, etc to judge the individual data rights of a digital contact tracing solution.
+This is the website for DCTA-datarights.com. A framework for developers, funders, coders etc to judge the individual data rights of a digital contact tracing solution.
 
 # Why are the rights necessary?
 Epidemiologists identify DCTA apps as a tool that can help get people treated earlier, and reopen society. For digital contact tracing to be effective, it must have high adoption. However, large scale centralized digital contact tracing can be used for unwanted surveillance. Location-tracking apps have exposed major concerns that these tech solutions will permanently erode the privacy of a large number of the world’s population.
